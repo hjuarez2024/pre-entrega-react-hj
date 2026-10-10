@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hernán Juárez",
+        "mail": "hjuarez@mail.com",
+        "puesto": "Frontend Developer",
+        "imagen": "/images/avatar1.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Jorge Gómez",
+        "mail": "gjorge@mail.com",
+        "puesto": "Diseñador UX/UI",
+        "imagen": "/images/avatar2.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Ruiz",
+        "mail": "rcarlos@mail.com",
+        "puesto": "Ventas / Soporte",
+        "imagen": "/images/avatar3.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Juan Pérez",
+        "mail": "pjuan@mail.com",
+        "puesto": "CEO",
+        "imagen": "/images/avatar4.png"
+    }
+]

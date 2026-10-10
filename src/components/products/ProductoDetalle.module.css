@@ -1,0 +1,52 @@
+.productDetails {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.linkProducts {
+    text-decoration: none;
+    color: rgb(59, 58, 58);
+    font-weight: 600;
+}
+
+.productCard {
+    display: flex;
+    gap: 2rem;
+    margin: 3rem;
+    padding: 1rem;
+}
+
+.image {
+    width: auto;
+    height: 15rem;
+    /* height: auto; Mantiene la proporción original de la imagen */
+    object-fit: contain;
+}
+
+.productContent {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 1.5rem;
+    background: rgba(224, 247, 247, 0.6);
+    border: 2px solid rgba(0, 255, 255, 0.6);
+    color: black;
+}
+
+.title {
+    color: rgb(0 105 224);
+}
+
+.specsTitle {
+    color: rgb(53, 52, 52);
+}
+
+.specs {
+    color: rgb(51, 50, 50);
+}
+
+
+
