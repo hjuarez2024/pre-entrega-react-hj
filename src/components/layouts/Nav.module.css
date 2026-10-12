@@ -3,6 +3,7 @@
     text-decoration: none;
     display: flex;
     gap: 1.5rem;
+    margin: 2rem;
     font-size: 1.4rem;
     font-weight: bold;
 }
@@ -10,4 +11,11 @@
 .navLink {
     text-decoration: none;
     color: white;
+}
+
+@media (max-width: 460px) {
+    .navList {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 }

@@ -32,7 +32,7 @@ function Directorio() {
     }
     return (
         <div className={styles.directorio}>
-            <TarjetaContacto personas={nosotros} Mensaje="Nuestra empresa" />
+            <TarjetaContacto personas={nosotros} Mensaje="Empresa"/>
         </div>
     );
 }

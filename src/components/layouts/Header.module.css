@@ -11,3 +11,10 @@
     font-size: 1.2rem;
     text-decoration: none;
 }
+
+/* Diseño responsivo - Media Queries */
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+    }
+}

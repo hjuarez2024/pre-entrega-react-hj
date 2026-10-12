@@ -7,7 +7,7 @@ const Footer = () => {
             <div>
                 <Directorio />
             </div>
-            <p>&copy; 2026 - Tecno Store. Todos los
+            <p className={styles.copyRight}>&copy; 2026 - Tecno Store. Todos los
             derechos reservados.</p>
         </footer>
     );
